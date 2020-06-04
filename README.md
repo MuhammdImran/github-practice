@@ -1,2 +1,2 @@
 # github-practice
-just practice with friends 
+just practice with friends.practice makes a man developer
